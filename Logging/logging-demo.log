@@ -1,0 +1,40 @@
+2020-02-25 23:02:20 ERROR App:17 - Enter Principal Amount:
+
+2020-02-25 23:17:22 INFO  App:45 - Enter 'simple' for simple interest or 'compound' for compound interest:
+
+2020-02-25 23:17:29 INFO  App:16 - Enter Principal Amount:
+
+2020-02-25 23:17:32 INFO  App:18 - Enter the Number of Years:
+
+2020-02-25 23:17:33 INFO  App:20 - Enter Rate Of Interest:
+
+2020-02-25 23:17:34 INFO  App:51 - 2000.0
+2020-02-25 23:18:48 INFO  App:45 - Enter 'simple' for simple interest or 'compound' for compound interest:
+
+2020-02-25 23:27:43 INFO  App:16 - Enter Principal Amount:
+
+2020-02-25 23:27:45 INFO  App:18 - Enter the Number of Years:
+
+2020-02-25 23:27:46 INFO  App:20 - Enter Rate Of Interest:
+
+2020-02-25 23:27:47 INFO  App:51 - simple interest is:40.0
+2020-02-25 23:29:15 INFO  App:45 - Enter 'simple' for simple interest or 'compound' for compound interest:
+
+2020-02-25 23:29:19 INFO  App:30 - Enter the Principal Amount:
+
+2020-02-25 23:29:22 INFO  App:32 - Enter the Number of Years
+
+2020-02-25 23:29:24 INFO  App:34 - Enter the Rate Of Interest:
+
+2020-02-25 23:29:26 INFO  App:36 - Specify Compound Interval in Years Format:
+
+2020-02-25 23:29:28 INFO  App:53 - compound interest is:4245.454202499998
+2020-02-25 23:29:45 INFO  HouseConstructionCostMain:13 - Enter Material Type (Standard,Above,High):-
+2020-02-25 23:30:01 INFO  HouseConstructionCostMain:14 - Enter Area of house in square feets :-
+2020-02-25 23:30:04 INFO  HouseConstructionCostMain:15 - Enter Is House should beFully automated  home or not (true,false):-
+2020-02-25 23:30:08 INFO  HouseConstructionCostMain:17 - Overall Estimation Cost for House Construction is:-
+2020-02-25 23:30:57 INFO  HouseConstructionCostMain:13 - Enter Material Type (Standard,Above,High):-
+2020-02-25 23:31:16 INFO  HouseConstructionCostMain:13 - Enter Material Type (Standard,Above,High):-
+2020-02-25 23:31:27 INFO  HouseConstructionCostMain:14 - Enter Area of house in square feets :-
+2020-02-25 23:31:35 INFO  HouseConstructionCostMain:15 - Enter Is House should beFully automated  home or not (true,false):-
+2020-02-25 23:31:39 INFO  HouseConstructionCostMain:17 - Overall Estimation Cost for House Construction is:-450000
